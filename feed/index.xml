@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stranger</title>
+	<atom:link href="http://localhost/WordPress/feed/?simply_static_page=5715" rel="self" type="application/rss+xml" />
+	<link>https://progafterdeath.github.io/stranger</link>
+	<description>Діджитал фото-галерея</description>
+	<lastBuildDate>Sun, 10 Dec 2023 14:54:28 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Привіт, світ!</title>
+		<link>https://progafterdeath.github.io/stranger/2023/12/10/%d0%bf%d1%80%d0%b8%d0%b2%d1%96%d1%82-%d1%81%d0%b2%d1%96%d1%82/</link>
+					<comments>https://progafterdeath.github.io/stranger/2023/12/10/%d0%bf%d1%80%d0%b8%d0%b2%d1%96%d1%82-%d1%81%d0%b2%d1%96%d1%82/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2023 14:54:28 +0000</pubDate>
+				<category><![CDATA[Без категорії]]></category>
+		<guid isPermaLink="false">https://progafterdeath.github.io/stranger/?p=1</guid>
+
+					<description><![CDATA[Ласкаво просимо до WordPress. Це ваш перший запис. Редагуйте або видаліть, а потім починайте писати!]]></description>
+										<content:encoded><![CDATA[
+<p>Ласкаво просимо до WordPress. Це ваш перший запис. Редагуйте або видаліть, а потім починайте писати!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://progafterdeath.github.io/stranger/2023/12/10/%d0%bf%d1%80%d0%b8%d0%b2%d1%96%d1%82-%d1%81%d0%b2%d1%96%d1%82/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
